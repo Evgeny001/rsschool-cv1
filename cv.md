@@ -1,5 +1,5 @@
-## EvgenyLukashevich
-###Education
+## Evgeny Lukashevich
+### Education
 ___
 2021 |	JavaScript / front-end in progress
          The Rolling Scopes School
