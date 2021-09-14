@@ -19,10 +19,22 @@ Udemy
             *CSS
             *JS (in progress)
             *Git / Github
+            #####Code Example
+    ```javascript
+              ["a", "e", "i", "o", "u"].some((vowel, index) => {
+    if (!x.includes(vowel)) {
+      missingIndex = index;
+      return true;
+    }
+    });
+  
+    return missingIndex
+    }```
             #####Languages
             *Russian (native)
             *English (EPAM English test result: A2) and currently learning
             #####About me
+I am a novice front-end developer programmer who previously worked in the aviation sector. Now I'm changing my profession and trying my hand at the Front-end field. I'm purposeful, assertive, achieve my goals and I'm a good team player. I have a high degree of responsibility and enthusiasm for a new business. I have basic concepts in programming and longing to gain new experience and knowledge and work on real projects.
 
 
 
